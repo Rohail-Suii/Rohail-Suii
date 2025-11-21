@@ -1,144 +1,111 @@
-<!-- ──────────────────────────────────────────────── -->
-<!--                PREMIUM GITHUB README             -->
-<!--        Created specifically for Rohail-Suii      -->
-<!-- ──────────────────────────────────────────────── -->
+# Hi there, I'm Rohail Ahmed 👋
 
-<!-- MAIN TITLE -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00eaff;">Rohail Ahmed</span></h1>
+### Full Stack Developer | Founder at SouqStack | MERN Stack Specialist
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+NestJS+%7C+TypeScript;SaaS+%7C+Dashboards+%7C+Ticketing+Systems;Founder+of+SouqStack;Building+Scalable+Digital+Products" />
-</p>
+I'm a passionate Full Stack Developer with expertise in building scalable web applications using modern technologies. I specialize in creating seamless user experiences and robust backend systems.
 
----
+## 🚀 About Me
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/cyberpunk-city.gif" width="100%" />
-</p>
+- 🎓 **Education**: BS Computer Science from COMSATS University Islamabad (2021-2025)
+- 💼 **Current Role**: Full Stack Developer at Saasifylabs & Founder at SouqStack
+- 🌍 **Experience**: Delivered 5+ production-ready projects with diverse tech stacks
+- 🎯 **Focus**: Building innovative solutions that solve real-world problems
+- 📫 **Contact**: [Portfolio](https://rohailahmed.netlify.app/)
 
----
+## 💻 Tech Stack
 
-# 🌍 **About Me**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-I'm a **Full Stack Developer** specializing in building **SaaS apps**, **event booking platforms**, **interactive dashboards**, and **modern web systems**.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔥 Founder of **SouqStack**
-- 🧠 Expert in **Next.js, NestJS, Tailwind, TypeScript, Prisma**
-- 🚀 Delivered 10+ full production SaaS & platform-level projects
-- 🌍 Love building products with purpose & clean UI
-- ⚡ Currently working on **Mualim**, **SouqStack**, and new SaaS tools  
-- 🎨 Designing pixel-perfect, blazing-fast, futuristic UIs
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+## 🌟 Featured Projects
 
-# ⚒️ **Tech Stack**
+### [90Events](https://90events.com/)
+**Full Stack Developer at Saasifylabs**
+- Turkish event-booking platform with interactive seat map creation
+- **Tech Stack**: Next.js, Redux, TypeScript, NestJS, MongoDB, Prisma
+- **Features**: Dynamic seat mapping, payment gateway integration, event management dashboard
 
-### **🚀 Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,nestjs,nodejs,express,threejs,babel" />
-</p>
+### [Turkish Week](https://www.turkishweek.com/)
+**Full Stack Developer at Saasifylabs**
+- Comprehensive platform for event bookings, tours, B2B meetings, and e-commerce
+- **Tech Stack**: Next.js, Redux, TypeScript, NestJS, MongoDB, Prisma
+- **Features**: Multi-functional booking system, admin dashboard, payment processing
 
-### **🗄 Databases & ORMs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,firebase" />
-</p>
+### [Mualim](https://ourmualim.com/)
+**Full Stack Developer at SouqStack**
+- E-learning institute with e-commerce capabilities
+- **Tech Stack**: Next.js, Redux, TypeScript, Express, MongoDB, Socket.IO
+- **Features**: Google Classroom API integration, real-time communication, course management
 
-### **🛰 DevOps & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,gcp,git,github,postman,figma" />
-</p>
+### [NextAvatar](https://demo3dcharater.vercel.app/)
+**Frontend Developer at Saasifylabs**
+- 3D character customizer for gaming applications
+- **Tech Stack**: Next.js, Three.js, Babylon.js, Tailwind CSS
+- **Features**: Real-time 3D rendering, character customization, performance optimization
 
----
+### [Foxtel Inventory System](https://foxtel-inventory.vercel.app)
+**Full Stack Developer at SouqStack**
+- Comprehensive billing and inventory management system
+- **Tech Stack**: React, Tailwind CSS, Material UI, Express, MongoDB
+- **Features**: Client categorization, invoice management, PDF generation
 
-# 💼 **Experience Timeline**
+## 📊 Professional Experience
 
-### 🌍 **Founder — SouqStack (2023–Present)**
-- Built & delivered SaaS and multi-client applications  
-- Designed scalable architectures using **Next.js + NestJS + Prisma**  
-- Managed client communication & product direction  
+### 🏢 Full Stack Developer @ Saasifylabs (2025)
+- Collaborated with a team of 4 developers on enterprise-level projects
+- Managed client meetings and project requirements
+- Deployed 5+ production applications
+- Worked with Next.js, NestJS, TypeScript, Prisma, and MongoDB
 
-### 🧑‍💻 **Full Stack Developer — Saasifylabs (2025)**
-- Delivered 12+ projects  
-- Worked with **Next.js, NestJS, MongoDB, Prisma**  
-- Led client meetings & deployments  
+### 🚀 Founder @ SouqStack (2023 - Present)
+- Founded and grew development agency
+- Delivered innovative solutions for diverse clients
+- Managed end-to-end project lifecycle
+- Specialized in full-stack development and client relations
 
-### 💼 **Web Developer Intern — Pakistan Post**
-- Improved UI/UX of Pakistan Post website  
-- API integration & frontend modernization  
+### 💼 Web Developer Intern @ Pakistan Post (July 2023 - August 2023)
+- Enhanced website UI and user experience
+- Integrated tracking APIs
+- Collaborated with development team
+- Gained practical experience in production environments
 
-### 🎓 **COMSATS University (2021–2025)**
-- BSCS — Data Structures, Software Engineering, AI, DBMS  
+## 🏆 Key Achievements
 
----
+- ✅ Successfully delivered 5+ production-ready applications
+- ✅ Founded and scaled SouqStack development agency
+- ✅ Integrated complex payment gateways and third-party APIs
+- ✅ Built interactive 3D web applications using Three.js and Babylon.js
+- ✅ Managed cross-functional teams and client relationships
+- ✅ Contributed to open-source and enterprise projects
 
-# 🚀 **Featured Projects**
+## 📈 GitHub Stats
 
-### 🎫 **90Events — Seat Map Ticketing Platform**
-Interactive seat selection + full event management  
-🔗 https://90events.com/
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohailahmed&show_icons=true&theme=radical)
 
-### 🇹🇷 **Turkish Week — Tours + Events Platform**  
-Full booking + B2B + e-commerce system  
-🔗 https://turkishweek.com/
+## 🤝 Let's Connect
 
-### 🎒 **Mualim — Online Learning Platform**  
-Courses, books, classroom integration  
-🔗 https://ourmualim.com/
-
-### 🧊 **NextAvatar — 3D Character Builder**  
-Three.js + Babylon.js  
-🔗 https://demo3dcharater.vercel.app/
-
-### 📦 **Foxtel Inventory System**  
-Billing, invoices, PDF generator  
-🔗 https://foxtel-inventory.vercel.app
-
----
-
-# 📊 **GitHub Analytics**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohail-Suii&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohail-Suii&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohail-Suii&layout=compact&theme=tokyonight" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rohailahmed.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
-# 🐍 **3D Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 📡 **GitHub Activity Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohail-Suii&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# 🎧 **Wakatime Coding Analytics (Optional)**  
-> If you want live tracking of coding hours, send me your **Wakatime username** and I’ll activate this section.
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:rohailahmed303@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://rohail.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-</p>
-
----
-
-<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
-
+💡 *"Engineering Excellence, Inspired by Innovation"*
