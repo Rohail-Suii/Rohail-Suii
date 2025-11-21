@@ -93,4 +93,52 @@ Three.js + Babylon.js
 
 ### 📦 **Foxtel Inventory System**  
 Billing, invoices, PDF generator  
-🔗 https://
+🔗 https://foxtel-inventory.vercel.app
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohail-Suii&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohail-Suii&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohail-Suii&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 **3D Contribution Snake**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📡 **GitHub Activity Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohail-Suii&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🎧 **Wakatime Coding Analytics (Optional)**  
+> If you want live tracking of coding hours, send me your **Wakatime username** and I’ll activate this section.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:rohailahmed303@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://rohail.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
+
