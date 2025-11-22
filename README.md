@@ -23,7 +23,7 @@
 
 ```yaml
 name: Rohail Ahmed
-role: Full Stack Developer & Technical Founder
+role: Saas Developer & Technical Founder
 location: Pakistan
 education: BS Computer Science - COMSATS University (2021-2025)
 focus: Enterprise SaaS, Event Management Systems, E-Commerce Platforms
