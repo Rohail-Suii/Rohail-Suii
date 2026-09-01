@@ -37,7 +37,6 @@ experience: 5+ Years | 40+ Production Projects
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🚀 Founder & Lead Developer — SouqStack (2023 - Present)</b></summary>
 
 ```plaintext
 • Founded and scaled full-service development agency
